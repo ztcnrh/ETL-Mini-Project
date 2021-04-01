@@ -34,7 +34,7 @@ The datasets were imported into pandas dataframes to be performed the cleaning (
 </ul>
 
 ### Load
-Data was loaded into a SQLite database using SQLAlchemy, as outlined below. Specifically, to create the database and tables we performed the following actions:
+Data was loaded into a SQLite database using SQLAlchemy, as outlined below. A relational database (SQLite) was chosen as opposed to a non-relational one (MongoDB) mainly because of the uniformity and similarity of our datasets. Factors like the size of the datasets and the existence of unique identifiers (primary-foreign key references) were also considered before the decision was made. Specifically, to create the database and tables we performed the following actions:
 <ul>
   <li>Created SQLIite database “goodreads” using SQLAlchemy.</li>
   <li>Created two classes (which will serve as the anchor points for our Tables) for the cleaned Kaggle and UCSD data sets.</li>
