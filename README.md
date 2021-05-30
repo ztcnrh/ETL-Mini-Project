@@ -1,5 +1,7 @@
 # ETL-Mini-Project (UPenn Data Boot Camp)
 
+<img src=images/books_header_image.jpeg width="80%" alt="Header Image - A Shelf of Books">
+
 ### Objective
 Build a database from the ground up with online data sources utilizing a ETL (Extract, Transform, Load) process, in which joins can be performed with a primary and foreign key reference.
 
