@@ -1,4 +1,4 @@
-# ETL-Mini-Project (UPenn Data Boot Camp)
+# ETL Mini Project (UPenn Data Boot Camp)
 
 <img src=images/books_header_image.jpeg width="87%" alt="Header Image - A Shelf of Books">
 
